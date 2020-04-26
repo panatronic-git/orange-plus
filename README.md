@@ -3,7 +3,7 @@ Add-on for the Orange3 with custom widgets
 
 *Date: Jul 2020*
 
-Author: Panagiotis Papadopoulos.  
+Author: Panagiotis Papadopoulos  
 E-mail: panatronic[*at*]outlook[*one dot*]com.  
 Institution: Hellenic Open University.  
 

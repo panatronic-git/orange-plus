@@ -1,5 +1,4 @@
-.vscode/settings.json
-.vscode/launch.json
-README.md
+\README.md
+\.vscode\settings.json
+\.vscode\launch.json
 
-**/.vscode

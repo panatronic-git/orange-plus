@@ -2,6 +2,9 @@
 Add-on for the Orange3 with custom widgets
 
 ### Date: Jul 2020
+Author: Panagiotis Papadopoulos.
+Email: panatronic[at]outlook[one dot]com.
+Hellenic Open University.
 
 ### About
 This is my Bachelor's thesis project in the Hellenic Open University.

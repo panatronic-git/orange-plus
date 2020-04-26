@@ -9,7 +9,7 @@ INSTALL_REQUIRES = sorted(set(
 ) - {''})
 
 # User-friendly description from README.rst
-with open("README.rst", "r") as ufd:
+with open("Description.rst", "r") as ufd:
     long_description = ufd.read()
 
 setup(

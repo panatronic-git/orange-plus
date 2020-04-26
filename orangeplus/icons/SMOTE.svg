@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="750px" height="750px" viewBox="-100 -100 750 750">
+    <defs/>
+    <g>
+        <circle cx="97" cy="70" fill="#ffffff" stroke="#000000" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="477" cy="30" fill="#ffffff" stroke="#000000" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="387" cy="210" fill="#ffffff" stroke="#000000" stroke-width="30" pointer-events="all" r="15"/>
+        <path d="M 12 527 L 12 15" fill="none" stroke="#5c5c5c" stroke-width="25" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 12 514 L 602 514" fill="none" stroke="#5c5c5c" stroke-width="25" stroke-miterlimit="10" pointer-events="stroke"/>
+        <circle cx="187" cy="230" fill="#ffffff" stroke="#000000" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="37" cy="360" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="197" cy="320" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="177" cy="500" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="247" cy="370" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="77" cy="320" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="317" cy="480" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="537" cy="465" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="77" cy="470" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="127" cy="420" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="207" cy="435" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="307" cy="410" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="347" cy="350" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="137" cy="350" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="427" cy="370" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="397" cy="465" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="397" cy="300" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="517" cy="400" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="477" cy="440" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="547" cy="320" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="497" cy="280" fill="#ffffff" stroke="#777777" stroke-width="30" pointer-events="all" r="15"/>
+        <path d="M 322 220 L 372.17 212.28" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 136.39 149.39 L 86.39 80.61" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 242 40 L 462.01 30.64" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 440.88 124.49 L 376.39 199.39" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 368.49 100.36 L 466.39 40.61" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 107.61 80.61 L 373.38 203.7" fill="none" stroke="#0" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 249.99 147.5 L 376.39 199.39" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 112 70 L 212.49 43.79" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 187 215 L 147 175" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 107.61 80.61 L 224.01 132.5" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 197.61 219.39 L 345.51 119.64" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 492 30 L 444.5 97.01" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 202 230 L 292.07 221.42" fill="none" stroke="#000000" stroke-width="10" stroke-miterlimit="10" pointer-events="stroke"/>
+        <circle cx="227" cy="40" fill="#ffffff" stroke="#006600" stroke-width="30" pointer-events="all" r="15"/>
+        <circle cx="147" cy="160" fill="#ffffff" stroke="#006600" stroke-width="30" transform="rotate(-45,147,160)" pointer-events="all" r="15"/>
+        <circle cx="237" cy="140" fill="#ffffff" stroke="#006600" stroke-width="30" transform="rotate(-15,237,140)" pointer-events="all" r="15"/>
+        <circle cx="357" cy="110" fill="#ffffff" stroke="#006600" stroke-width="30" transform="rotate(5,357,110)" pointer-events="all" r="15"/>
+        <circle cx="437" cy="110" fill="#ffffff" stroke="#006600" stroke-width="30" transform="rotate(75,437,110)" pointer-events="all" r="15"/>
+        <circle cx="307" cy="220" fill="#ffffff" stroke="#006600" stroke-width="30" pointer-events="all" r="15"/>
+    </g>
+</svg>

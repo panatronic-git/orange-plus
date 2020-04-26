@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="201px" height="311px" viewBox="-0.5 -0.5 201 311">
+  <defs/>
+  <g>
+    <rect x="0" y="0" width="200" height="310" fill="none" stroke="none" pointer-events="all"/>
+    <path d="M 156.31 278.41 C 178.75 257.46 192.94 227.93 192.94 195.03 C 192.94 154.47 171.47 117.91 138.09 97.33 L 175.5 33.09 L 169.63 29.71 L 178.88 13.82 L 154.66 0 L 145.41 15.89 L 139.19 12.35 L 47.25 170.36 L 55.31 174.95 L 43.91 194.53 L 64.09 206.07 L 75.5 186.49 L 83.53 191.09 L 122.19 124.63 C 145.94 139.61 161.13 165.88 161.13 195 C 161.13 241.01 123.41 278.38 77.03 278.38 C 46 278.38 9.28 278.38 9.28 278.38 L 9.28 310 L 200 310 L 200 278.41 C 199.97 278.41 171.75 278.41 156.31 278.41 Z" fill="#383838" stroke="none" pointer-events="all"/>
+    <path d="M 7.47 196.25 L 0 209.23 L 77.72 253.92 L 85.16 240.94 Z" fill="#383838" stroke="none" pointer-events="all"/>
+  </g>
+</svg>

@@ -8,7 +8,7 @@ INSTALL_REQUIRES = sorted(set(
     for line in open('requirements.txt', 'r')
 ) - {''})
 
-# User-friendly description from README.rst
+# User-friendly description from description.rst
 with open("Description.rst", "r") as ufd:
     long_description = ufd.read()
 

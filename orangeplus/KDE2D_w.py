@@ -1,16 +1,16 @@
 # -*- coding: utf-8 -*-
 """ A visualization widget for Orange3.
 
-    This is a visualization widget for Orange3, that displays a joint distribution
-    of two attributes from a dataset.  The Widget is a two-dimensional kernel-density 
-    estimate graph using Gaussian kernels. The Kernel density estimation (KDE) is a 
-    method to estimate the probability density function (PDF) of a random variable in
-    a non-parametric way. This widget is useful in the case where there are similarities 
-    in data, capable of being hidden in other charts such as scatter plot. In addition, 
-    hidden clusters can be found, or it can even indicate whether these data form normal 
-    distributions. The package used is the "SciPy". Source: "https://scipy.org/about.html".
-    To run the addon, just install it with 'pip install -e .' from its package folder.
-    Don't forget to activate orange environment first.
+    This is a visualization widget for Orange3, that displays a joint distribution of two
+    variables from a dataset.  The Widget is a two-dimensional kernel-density estimate graph
+    using Gaussian kernels. The Kernel density estimation (KDE) is a method to estimate the
+    probability density function (PDF) of a random variable in a non-parametric way.
+    This widget is useful in cases where there are similarities in data, that are difficult to
+    spot in other charts such as scatter plots. In addition, hidden clusters can be found, as
+    well as indicate whether the data form normal distributions.
+    The package used is called "SciPy". Source: "https://scipy.org/about.html".
+    To run the addon, just install it using 'pip install -e .' from its package folder.
+    Don't forget to first activate the orange environment.
 
     __author__ = Panagiotis Papadopoulos
     __date__ = April 2020

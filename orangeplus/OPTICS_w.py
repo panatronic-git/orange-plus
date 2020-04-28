@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """ A data clustering widget for the Orange3.
 
-    This is a data clustering widget for Orange3, that implements OPTICS algorithm.
-    OPTICS stands for "Ordering Points To Identify the Clustering Structure". 
-    This is a very useful algorithm for clustering data when the dataset is unlabeled 
-    with Non-flat geometry or it has uneven cluster sizes or variable cluster density.
-    The package used is the "sklearn". Source: "https://scikit-learn.org/stable/index.html"
-    To run the addon, just install it with 'pip install -e .' from its package folder.
-    Don't forget to activate orange environment first.
+    This is a data clustering widget for Orange3, that implements the OPTICS algorithm.
+    OPTICS stands for "Ordering Points To Identify the Clustering Structure".
+    This is a very useful algorithm for clustering data when the dataset is unlabeled with
+    Non-flat geometry or when it has uneven cluster sizes or variable cluster density.
+    The package used is called "sklearn". Source: https://scikit-learn.org/stable/index.html
+    To run the addon, just install it using 'pip install -e .' from its package folder.
+    Don't forget to first activate the orange environment.
 
     __author__ = Panagiotis Papadopoulos
     __date__ = Feb 2020

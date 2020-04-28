@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 """ A data oversampling widget for the Orange3.
 
-    This is a data oversampling widget for Orange3, that implements SMOTE.
-    SMOTE stands for "Synthetic Minority Oversampling TEchnique".
-    This is a very useful technique for classifying data when the dataset is imbalanced.
-    The package used is the "imbalanced-learn". Source: "https://imbalanced-learn.readthedocs.io/en/stable/index.html#"
-    To run the addon, just install it with 'pip install -e .' from its package folder.
-    Don't forget to activate orange environment first.
+    This is a data oversampling widget for Orange3, that implements SMOTE. 
+    SMOTE stands for "Synthetic Minority Oversampling TEchnique". This is a 
+    very useful technique for classifying data when the dataset is imbalanced.
+    The package used is called "imbalanced-learn". 
+    Source: "https://imbalanced-learn.readthedocs.io/en/stable/index.html"
+    To run the addon, just install it using 'pip install -e .' from its package folder.
+    Don't forget to first activate the orange environment.
 
     __author__ = Panagiotis Papadopoulos
-    __date__ = Jan 2020
+    __date__ = July 2020
     __version__ = 0.1.0
     __type__ = Orange Addon
     __platform__ = Windows (Orange enviroment)

@@ -26,8 +26,8 @@ visualization of data based on a two-dimensional kernel-density estimate using G
 This widget is useful in cases where there are similarities in data, that are difficult to spot  
 in other charts such as scatter plots. In addition, hidden clusters can be found, as well as  
 indicate whether the data form normal distributions. VSCode, Python and Orange, as well as the  
-following three packages were used in the development process: “imbalanced-learn”, “scikit-learn”  
-and “sciPy”. Through the aforementioned development, Orange's exceptional potential in data  
+following three packages were used in the development process: "imbalanced-learn", "scikit-learn"  
+and "sciPy". Through the aforementioned development, Orange's exceptional potential in data  
 mining was uncovered and an insightful understanding of Data Science concepts and techniques was  
 achieved, bringing about a valuable skillset that can be expanded and built upon.  
 
